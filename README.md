@@ -4,15 +4,11 @@ I am a decision science student, Basically decision science is the pursuit and a
 
 SKILLSET:
 
-  Web technology - HTML, ,CSS, JS, PHP
-  
-  Programming Languages : Python, C, R
-  
-  Database : MySQL, SQLite, MongoDB
-  
-  Tools : NetBeans, SQL, RStudio, Visual Studio code.
-  
-  Visualization Tools: Tableau, PowerBI
+    Web technology - HTML, ,CSS, JS, PHP
+    Programming Languages : Python, C, R
+    Database : MySQL, SQLite, MongoDB
+    Tools : NetBeans, SQL, RStudio, Visual Studio code.
+    Visualization Tools: Tableau, PowerBI
 <!--
 **Genga28/Genga28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
