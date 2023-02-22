@@ -13,6 +13,10 @@ SKILLSET:
     Database : MySQL, SQLite, MongoDB
     Tools : NetBeans, SQL, RStudio, Visual Studio code.
     Visualization Tools: Tableau, PowerBI
+
+Connect with me:
+https://www.linkedin.com/in/gengak/
+
 <!--
 **Genga28/Genga28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
